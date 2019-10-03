@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<library_books>
+    <technical> 
+        <book>
+            <isbn>-13="978-01317742952"</isbn>
+            <title>Technical Data</title>
+            <author>John Smith</author>
+        </book>
+        <book>
+            <isbn>-14="978-01317742953"</isbn>
+            <title>More Technical</title>
+            <author>Mary Ryan</author>
+        </book>
+    </technical>
+    <cookery>
+        <book>
+            <isbn>-16="978-01317742955"</isbn>
+            <title>Best Chef</title>
+            <author>Donna D</author>
+        </book>
+        <book>
+            <isbn>-18="978-01317742958"</isbn>
+            <title>Great Cakes</title>
+            <author>Ma Jones</author>
+        </book>
+    </cookery>
+    
+</library_books>
